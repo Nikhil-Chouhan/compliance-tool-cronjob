@@ -1,0 +1,218 @@
+[
+  {
+    "code": "IN-AN",
+    "name": "Andaman and Nicobar Islands",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-AP",
+    "name": "Andhra Pradesh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-AR",
+    "name": "Arunachal Pradesh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-AS",
+    "name": "Assam",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-BR",
+    "name": "Bihar",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-CH",
+    "name": "Chandigarh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-CT",
+    "name": "Chhattisgarh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-DL",
+    "name": "Delhi",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-DH",
+    "name": "Dadra and Nagar Haveli and Daman and Diu",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-GA",
+    "name": "Goa",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-GJ",
+    "name": "Gujarat",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-HR",
+    "name": "Haryana",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-HP",
+    "name": "Himachal Pradesh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-JK",
+    "name": "Jammu and Kashmr",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-JH",
+    "name": "Jharkhand",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-KA",
+    "name": "Karnataka",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-KL",
+    "name": "Kerala",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-LA",
+    "name": "Ladakh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-LD",
+    "name": "Lakshadweep",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-MP",
+    "name": "Madhya Pradesh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-MH",
+    "name": "Maharashtra",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-MN",
+    "name": "Manipur",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-ML",
+    "name": "Meghalaya",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-MZ",
+    "name": "Mizoram",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-NL",
+    "name": "Nagaland",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-OR",
+    "name": "Odisha",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-PY",
+    "name": "Puducherry",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-PB",
+    "name": "Punjab",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-RJ",
+    "name": "Rajasthan",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-SK",
+    "name": "Sikkim",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-TN",
+    "name": "Tamil Nadu",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-TG",
+    "name": "Telangana",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-TR",
+    "name": "Tripura",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-UP",
+    "name": "Uttar Pradesh",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-UT",
+    "name": "Uttarakhand",
+    "country": "india",
+    "status": 1
+  },
+  {
+    "code": "IN-WB",
+    "name": "West Bengal",
+    "country": "india",
+    "status": 1
+  }
+]

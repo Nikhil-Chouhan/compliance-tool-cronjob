@@ -1,0 +1,46 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      table { font-family: arial, sans-serif; border-collapse: collapse; width:
+      10%; } td, th { border: 1px solid black; text-align: left; padding: 8px; }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h2>Dear Admin,</h2>
+      <h4>Following new Rule are added in CRS:</h4>
+      <table>
+        <tr>
+          {{!
+          <th>Sr. No.</th>
+          }}
+          <th>Country</th>
+          <th>Central/State</th>
+          <th>Law Category</th>
+          <th>Name of Legislation</th>
+          <th>Name of Rule</th>
+          <th>Uploaded by Username</th>
+        </tr>
+        <tbody>
+          <tr>
+            {{!--
+            <td>{{@index}}</td>
+            --}}
+            <td>{{country}}</td>
+            <td>{{centralOrState}}</td>
+            <td>{{lawCategory}}</td>
+            <td>{{legislationName}}</td>
+            <td>{{ruleName}}</td>
+            <td>{{uploadedByUser}}</td>
+          </tr>
+        </tbody>
+      </table>
+      <br />
+      <h3>Thanks & Regards</h3>
+      <h4>CRS Admin</h4>
+    </div>
+  </body>
+</html>

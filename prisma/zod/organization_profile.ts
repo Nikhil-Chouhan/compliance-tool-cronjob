@@ -1,0 +1,25 @@
+import * as z from "zod"
+
+export const organization_profileModel = z.object({
+  id: z.number().int().nullish(),
+  logo: z.string(),
+  name: z.string(),
+  industry: z.string(),
+  business_type: z.string(),
+  address: z.string(),
+  country_id: z.number().int(),
+  state_id: z.number().int(),
+  city: z.string(),
+  pincode: z.number().int(),
+  area_code_1: z.number().int(),
+  mobile_no_1: z.number().int(),
+  area_code_2: z.number().int(),
+  mobile_no_2: z.number().int(),
+  email_1: z.string(),
+  email_2: z.string(),
+  primary_color: z.string(),
+  created_at: z.date().nullish(),
+  updated_at: z.date().nullish(),
+  deleted_at: z.date().nullish(),
+  deleted: z.boolean().nullish(),
+})
