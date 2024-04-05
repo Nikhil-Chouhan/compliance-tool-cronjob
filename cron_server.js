@@ -3,8 +3,10 @@ const cron = require("node-cron");
 
 const app = express();
 
+const url = process.env.APP_URL || "http://localhost:3000";
+const port = process.env.PORT || 3000;
+
 const makeRequest = async () => {
-  const url = process.env.APP_URL || "http://localhost:3000";
   const response = await fetch(`${url}/api/trigger-cronjobs`);
   const data = await response.json();
   console.log(data);
@@ -21,8 +23,6 @@ app.get("/", (req, res) => {
   res.send("CronJob Server is running."); 
 });
 
-const port = process.env.PORT || 3000;
-
 app.listen(port, () => {
-  console.log(`CronJob Server is running on URL: ${process.env.APP_URL} , PORT: ${port}`);
+  console.log(`CronJob Server is running on URL: ${url} , PORT: ${port}`);
 });
