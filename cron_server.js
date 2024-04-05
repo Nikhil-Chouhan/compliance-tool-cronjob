@@ -12,9 +12,10 @@ const makeRequest = async () => {
   console.log(data);
 };
 
-// 0 8 * * *
+// 0 8 * * *  -- everyday 8 AM 
+// */1 * * * * -- after every minute
 
-cron.schedule("*/1 * * * *", function () {
+cron.schedule("0 8 * * *", function () {
   makeRequest();
   console.log("Running cron job at 8 in the morning");
 });
